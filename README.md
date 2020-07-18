@@ -46,7 +46,7 @@ The next step was to tokenize text of the articles. All words were converted to 
 
 
 ##### ETH N-gram for N = 2
-![ETH N-Gram](NGramETH.PNG)
+![ETH N-Gram](ETHNGram.PNG)
 ##### ETH Top 10 Words
 ![ETH Top 10](Top10ETH.PNG)
 
@@ -58,7 +58,7 @@ Words clouds were created for the news articles of both crytpocurrencies using W
 ![BTC Word Cloud](WordCloudBTC.PNG)
 
 ##### Ethereum Word Cloud
-![ETH Word Cloud](WordCloudETH.PNG)
+![ETH Word Cloud](ETHWordCloud.PNG)
 
 ### Named Entity Recognition
 
@@ -67,5 +67,5 @@ A name entity recognition model and visualization tags were created using SpaCy.
 ![BTC NER](NERBTC.PNG)
 
 
-![ETH NER](NERETH.PNG)
+![ETH NER](ETHNER.PNG)
 
