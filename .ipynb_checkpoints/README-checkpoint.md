@@ -20,7 +20,7 @@ The describe function was then used for a quick analysis of the sentiment scores
 ##### BTC.describe()
 ![BTC Sentiment Quick Stats](BTCDescribe.PNG)
 ##### ETH.describe()
-![ETH Sentiment Quick Stats](ETHDEscribe.PNG) 
+![ETH Sentiment Quick Stats](DescribeETH.PNG) 
 
 * Which coin had the highest mean positive score?
 >
